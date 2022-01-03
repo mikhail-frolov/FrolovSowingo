@@ -1,10 +1,6 @@
-//
-//  FavouriteProduct+CoreDataClass.swift
-//  FrolovSowingo
-//
-//  Created by Mikhail Frolov on 2022-01-03.
-//
-//
+// Name: Mikhail Frolov
+// IOS DEV TEST
+// FavouriteProduct+CoreDataClass.swift
 
 import Foundation
 import CoreData

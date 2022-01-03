@@ -1,9 +1,6 @@
-//
-//  AppDelegate.swift
-//  FrolovSowingo
-//
-//  Created by Mikhail Frolov on 2022-01-02.
-//
+// Name: Mikhail Frolov
+// IOS DEV TEST
+// AppDelegate.swift
 
 import UIKit
 import CoreData
@@ -77,5 +74,4 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             }
         }
     }
-
 }
