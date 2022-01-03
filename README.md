@@ -8,14 +8,15 @@
 
 ##  App Layout
 
-![App](https://static.tildacdn.com/tild6533-3362-4632-b333-623666343838/Simulator_Screen_Sho.png "App")
+![App](https://static.tildacdn.com/tild3761-6530-4461-a631-333263363333/Simulator_Screen_Sho.png "App")
 
 ##  Favorite
 
-![Favorite](https://static.tildacdn.com/tild6531-3932-4063-b536-316365353462/Simulator_Screen_Sho.png "Favorite")
+![Favorite](https://static.tildacdn.com/tild3037-6239-4531-b436-303535363963/Simulator_Screen_Sho.png "Favorite")
 
 ## Bonus Points
 
-- :tw-2705: MVVM 
-- :tw-2705: Extra UI/UX - Filter Options.
-![Filter](https://static.tildacdn.com/tild6235-3038-4537-b034-303434623935/Simulator_Screen_Sho.png "Filter")
+- MVVM 
+- Extra UI/UX - Filter Options
+
+![Filter](https://static.tildacdn.com/tild3165-6539-4933-b963-646366306264/Simulator_Screen_Sho.png "Filter")
